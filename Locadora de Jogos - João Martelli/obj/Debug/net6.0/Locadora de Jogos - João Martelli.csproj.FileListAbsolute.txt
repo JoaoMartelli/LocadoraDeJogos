@@ -1,0 +1,59 @@
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.csproj.AssemblyReference.cache
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.AssemblyInfoInputs.cache
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.AssemblyInfo.cs
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.csproj.CoreCompileInputs.cache
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Locadora de Jogos - João Martelli.exe
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Locadora de Jogos - João Martelli.deps.json
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Locadora de Jogos - João Martelli.runtimeconfig.json
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Locadora de Jogos - João Martelli.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Locadora de Jogos - João Martelli.pdb
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Dapper.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.csproj.CopyComplete
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\refint\Locadora de Jogos - João Martelli.dll
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.pdb
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\Locadora de Jogos - João Martelli.genruntimeconfig.cache
+C:\Users\jooao\OneDrive\Desktop\Atividades\Itera360\Entity Framework\Desafio\Locadora de Jogos - João Martelli\obj\Debug\net6.0\ref\Locadora de Jogos - João Martelli.dll
