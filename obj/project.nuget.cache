@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZhFD3V1UhvcwwLkydFTckMKyTZH+XlT7VD5wfMXM3yTGJ94y/KTdssQ4pWiVER5j4FWl54t3CbAx7ADKA0hhw==",
+  "dgSpecHash": "VpMYB69Yh4qgVS7rG4vSUJjCeFf/7eCM0KE2Cvf/EvkQ9/efhUMLxMtt+TBDgbcm44dToFW8hIvVWqHcbsvpxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jooao\\OneDrive\\Desktop\\Atividades\\Itera360\\Entity Framework\\Desafio\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj",
+  "projectFilePath": "C:\\Users\\jooao\\OneDrive\\Documentos\\GitHub\\LocadoraDeJogos\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jooao\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\jooao\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

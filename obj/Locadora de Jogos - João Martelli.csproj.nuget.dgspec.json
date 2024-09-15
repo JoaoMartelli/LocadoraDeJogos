@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jooao\\OneDrive\\Desktop\\Atividades\\Itera360\\Entity Framework\\Desafio\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj": {}
+    "C:\\Users\\jooao\\OneDrive\\Documentos\\GitHub\\LocadoraDeJogos\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jooao\\OneDrive\\Desktop\\Atividades\\Itera360\\Entity Framework\\Desafio\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj": {
+    "C:\\Users\\jooao\\OneDrive\\Documentos\\GitHub\\LocadoraDeJogos\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jooao\\OneDrive\\Desktop\\Atividades\\Itera360\\Entity Framework\\Desafio\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj",
+        "projectUniqueName": "C:\\Users\\jooao\\OneDrive\\Documentos\\GitHub\\LocadoraDeJogos\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj",
         "projectName": "Locadora de Jogos - João Martelli",
-        "projectPath": "C:\\Users\\jooao\\OneDrive\\Desktop\\Atividades\\Itera360\\Entity Framework\\Desafio\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj",
+        "projectPath": "C:\\Users\\jooao\\OneDrive\\Documentos\\GitHub\\LocadoraDeJogos\\Locadora de Jogos - João Martelli\\Locadora de Jogos - João Martelli.csproj",
         "packagesPath": "C:\\Users\\jooao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jooao\\OneDrive\\Desktop\\Atividades\\Itera360\\Entity Framework\\Desafio\\Locadora de Jogos - João Martelli\\obj\\",
+        "outputPath": "C:\\Users\\jooao\\OneDrive\\Documentos\\GitHub\\LocadoraDeJogos\\Locadora de Jogos - João Martelli\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jooao\\AppData\\Roaming\\NuGet\\NuGet.Config"
